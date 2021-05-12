@@ -1,10 +1,10 @@
 # Django
 * ## Docs
-	> ### *Django*
-	> https://www.djangoproject.com/
-	> <br>
-	> ### *Django Rest Framework*
-	> https://www.django-rest-framework.org/
+	 ### *Django*
+	 https://www.djangoproject.com/
+	 <br>
+	 ### *Django Rest Framework*
+	 https://www.django-rest-framework.org/
 * ## Virtual Environments
 	> ### *Criando um virtual environment*
 	> `python3 -m venv ./{nome da pasta do projeto}`
