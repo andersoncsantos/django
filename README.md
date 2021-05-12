@@ -8,63 +8,38 @@
   https://www.django-rest-framework.org/
 * ## Virtual Environments
   ### *Criando um virtual environment*
-  ```bash
-  $ python3 -m venv ./{nome da pasta do projeto}
-  ```
-  <br>
+  `$ python3 -m venv ./{nome da pasta do projeto}`
 
   ### *Ativando environment*
-  ```bash
-  $ source venv/bin/activate
-  ```
+  `$ source venv/bin/activate`
+  <br>
+
 * ## Instalação dos Pacotes
   ### *Instalando o Django*
-  ```bash
-  $ pip install Django
-  ```
-  <br>
-	
+  `$ pip install Django`
+
   ### *Visualizar os pacotes instalados*
-  ```bash
-  $ pip freeze
-  ```
+  `$ pip freeze`
+  
+  ### *Instalando o Django Rest Framework*
+  `$ pip install djangorestframework`
   <br>
 
-  ### *Instalando o Django Rest Framework*
-  ```bash
-  $ pip install djangorestframework
-  ```
 * ## Migrations
   ### *Criando uma migração*
-  ```bash
-  $ python manage.py makemigrations
-  ```
+  `$ python manage.py makemigrations`
   <br>
-
   ### *Aplicando uma migração*
-  ```bash
-  $ python manage.py migrate
-  ```
+  `$ python manage.py migrate`
 * ## Comandos
   ### *Criando um novo projeto*
-  ```bash
-  $ django-admin startproject {nome da pasta do projeto} .
-  ```
+  `$ django-admin startproject {nome da pasta do projeto} .`
   <br>
-
   ### Iniciando servidor
-  ```bash
-  $ python manage.py runserver
-  ```
+  `$ python manage.py runserver`
   <br>
-
   ### Criando uma nova API
-  ```bash
-  $ python manage.py startapp {nome da API}
-  ```
+  `$ python manage.py startapp {nome da API}`
   <br>
-
   ### Criando um super user
-  ```bash
-  $ python manage.py createsuperuser
-  ```
+  `$python manage.py createsuperuser`
