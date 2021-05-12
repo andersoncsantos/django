@@ -6,11 +6,11 @@
 	 ### *Django Rest Framework*
 	 https://www.django-rest-framework.org/
 * ## Virtual Environments
-	  ### *Criando um virtual environment*
-	  `python3 -m venv ./{nome da pasta do projeto}`
-	  <br>
-	  ### *Ativando environment*
-	  `source venv/bin/activate`
+	### *Criando um virtual environment*
+	`python3 -m venv ./{nome da pasta do projeto}`
+	<br>
+	### *Ativando environment*
+	`source venv/bin/activate`
 * ## Instalação dos Pacotes
 	> ### *Instalando o Django*
 	>`pip install Django`
